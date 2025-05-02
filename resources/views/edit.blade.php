@@ -68,7 +68,7 @@
         </form>
         
     </div>
-
+    @endauth
     @else
         <div class="container">
 
@@ -112,4 +112,3 @@
                         </div>
 
                             @endif
-                    @endauth
